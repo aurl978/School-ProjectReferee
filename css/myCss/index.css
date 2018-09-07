@@ -1,0 +1,30 @@
+
+.view{
+    height: 100vh;
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url(../../image/pexels-photo-2745701.jpeg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.top-nav-collapse {
+    background-color: #563e91 !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #222222 !important;
+    }
+}
+.fa-basketball-ball{
+    color:#FF7B00;
+}

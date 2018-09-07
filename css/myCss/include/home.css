@@ -1,0 +1,18 @@
+/*---Welcome---*/
+section#welcome{
+    height: 100vh;
+}
+.containerHeader{
+    padding-top: 40vh;
+}
+/*---Promotion---*/
+section#promotion{
+    background-color:rgb(73, 56, 56);
+    color:#fff;
+    margin-bottom: -24px;
+}
+section#promotion h1{
+padding-top: 25vh;
+    
+}
+

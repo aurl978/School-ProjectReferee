@@ -1,0 +1,12 @@
+dans le fichier "index.php" ajouter ceci:
+
+<?php
+require_once 'class/Autoloader.php';
+Autoloader::load();
+
+$verif = new Verification();
+?>
+
+au dessus de la balise <!DOCTYPE>
+
+Puis vous ajouter le dossier "class" à la racine

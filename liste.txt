@@ -1,0 +1,5 @@
+num salle **
+date_match **
+heure_match **
+num_equipe1
+numequipe2

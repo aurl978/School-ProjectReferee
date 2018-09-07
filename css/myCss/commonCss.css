@@ -1,0 +1,31 @@
+/*-- Couleur des icônes --*/
+.fa-basketball-ball{
+    color:#FF7B00;
+}
+.fa-sign-in-alt{
+    color: #fff;
+}
+/*-- Couleur de la navbar--*/
+.navbar:not(.top-nav-collapse) {
+    background: #222 !important;
+}
+.scrolling-navbar{
+    background: #222 !important;
+}
+.modal-header ul {
+    border: none;
+  }
+.dropdown-menu a:hover{
+    background-color: #c9c9c9 !important;
+}
+/*-- Form --*/
+.formContainer{
+    height: 98vh;
+}
+.card{  
+    margin-top:20vh;
+}
+.table-fixed {
+    table-layout: fixed; 
+    overflow: hidden;
+}
